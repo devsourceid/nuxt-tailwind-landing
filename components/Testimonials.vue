@@ -4,7 +4,7 @@
       <div class="flex flex-col items-center lg:flex-row">
           <div class="flex flex-col items-start justify-center w-full h-full mb-10 lg:mb-0 lg:w-1/2">
             <p class="testimonial--subheading">
-              Why collect 101PXL?
+              Collect 101PXL
             </p>
             <h3 class="testimonial--heading">
               Be The OG's
