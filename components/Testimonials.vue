@@ -4,18 +4,15 @@
       <div class="flex flex-col items-center lg:flex-row">
           <div class="flex flex-col items-start justify-center w-full h-full mb-10 lg:mb-0 lg:w-1/2">
             <p class="testimonial--subheading">
-              Our customers love our product
+              Why collect 101PXL?
             </p>
             <h3 class="testimonial--heading">
-              What they say about us
+              Be The OG's on Solana Chain
             </h3>
-            <p class="testimonial--description">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-            </p>
           </div>
           <div class="w-full lg:w-1/2 space-y-4">
             <blockquote
-              v-for="{ message, name, jobTitle, id } in testimonials"
+              v-for="{ message, id } in testimonials"
               :key="id"
               class="quote--container"
             >
@@ -26,11 +23,6 @@
                   </svg>
                   <p class="quote--message">{{ message }}</p>
                 </div>
-
-                <h3 class="quote--name">
-                  {{ name }}
-                  <span class="quote--job">- {{ jobTitle }}</span>
-                </h3>
               </div>
             </blockquote>
           </div>

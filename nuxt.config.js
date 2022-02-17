@@ -4,14 +4,14 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'Starter',
+    title: '101PXL NFT',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/animated_101pxl.gif' }
     ]
   },
 
@@ -34,11 +34,27 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+    '@nuxtjs/google-fonts',
   ],
 
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: [
   ],
+
+  googleFonts: {
+    families: {
+      Roboto: true,
+      'Press+Start+2P': true,
+      Lato: [100, 300],
+      Raleway: {
+        wght: [100, 400],
+        ital: [100]
+      },
+    },
+    display: 'swap',
+    preload: true,
+    useStylesheet: false
+  },
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {

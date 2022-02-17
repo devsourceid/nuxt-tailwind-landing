@@ -1,23 +1,25 @@
 <template>
-  <section class="hero md:px-0">
+  <section class="hero grid grid-cols-6 gap-8 sm:grid-cols-6 lg:grid-cols-12 flex md:px-0 items-center">
+    <div class="relative flex flex-col items-center justify-start col-span-6">
     <div class="hero--container">
       <h1 class="hero--headings">
-        <span class="block">Level up your <span class="block text-gradient bg-gradient-to-r from-blue-600 via-indigo-400 to-purple-300 lg:inline lg:mt-0 mt-1">Website</span></span>
+        <span class="block">Collect the OG's <span class="block text-gradient bg-gradient-to-r from-red-600 via-pink-400 to-yellow-300 inline lg:mt-0 mt-1">101PXL</span> NFTs</span>
       </h1>
-      <p class="hero--description">
-        Anim aute id magna aliqua ad ad non deserunt sunt.
+      <p class="sm:text-left md:text-left lg:text-center">
+        1111 left-side pfp NFTs living on the Solana blockchain. Each piece is unique programmatically generated from over 85+ hand-drawn traits. Built with Manga style in pixel art. Unique avatar to be used everywhere to stand out on the Solana blockchain.
       </p>
       <div class="hero--actions md:space-x-4">
-        <a href="#" class="btn btn--primary">
-          Get Started
-        </a>
-        <a href="#" class="btn btn--default">
-          Learn more
+        <a href="#" class="btn bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 text-white" target="_blank">
+          Collect NFT
         </a>
       </div>
     </div>
-    <div class="hero--img-container">
-      <img src="~/assets/images/hero.svg" alt="Build website">
+    </div>
+    
+    <div class="relative flex flex-col items-center justify-start col-span-6">
+    <div class="my-4">
+      <img src="~/assets/images/animated_101pxl.gif" alt="101PXL Nft" class="w-1/2 mx-auto">
+    </div>
     </div>
   </section>
 </template>

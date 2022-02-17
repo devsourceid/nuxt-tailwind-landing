@@ -1,28 +1,19 @@
 <template>
   <header class="toolbar">
     <div class="toolbar--container">
-      <a href="#_" class="text--logo text-gradient bg-gradient-to-r from-blue-600 via-indigo-400 to-purple-300">
-        Starter
-      </a>
+      <NuxtLink to="/" class="text--logo text-gradient bg-gradient-to-r from-red-600 via-pink-400 to-yellow-300">
+        101PXL
+      </NuxtLink>
 
       <div class="relative z-10 inline-flex items-center space-x-3 md:ml-5 lg:justify-end">
         <nav class="hidden md:block">
           <div class="flex items-baseline space-x-10">
-            <a href="#_" class="item--link">
+            <!-- <a href="#_" class="item--link">
               <span class="block">Home</span>
-            </a>
-
-            <a href="#_" class="item--link">
-              <span class="block">Services</span>
-            </a>
-
-            <a href="#_" class="item--link">
-              <span class="block">Portfolio</span>
-            </a>
-
+            </a> -->
             <span class="inline-flex rounded-md shadow-sm">
-              <a href="#" class="btn btn--primary">
-                Contact Us
+              <a href="#" class="btn bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 text-white">
+                MINT NFT
               </a>
             </span>
           </div>

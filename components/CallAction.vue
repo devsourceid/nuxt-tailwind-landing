@@ -3,16 +3,16 @@
     <div class="call--container">
       <div class="px-4 text-left text-white max-w-7xl sm:px-6 lg:px-8">
         <h2 class="call--heading">
-          <span class="block">Get your business online</span>
+          <span class="block">Get the Rare NFTs</span>
         </h2>
         <p class="call--subheading">
-          Let's grow your audience, promote services and sell products.
+          All of NFTs just made 1 of 1, it has attributes that make them unique according to a defined rarity system. Get your 101PXL now.
         </p>
       </div>
       <div class="lg:flex-shrink-0 lg:mt-0 text-center mt-4">
         <div class="inline-flex rounded-md shadow">
           <a href="#" class="btn btn--action">
-            Get Started Today
+            View on SolSea
           </a>
         </div>
       </div>
@@ -28,7 +28,7 @@ export default {
 
 <style lang="postcss" scoped>
 .call--action {
-  @apply py-5 bg-primary;
+  @apply py-5 bg-gradient-to-r from-red-600 via-pink-400 to-yellow-300;
 }
 
 .call--action .btn--action {

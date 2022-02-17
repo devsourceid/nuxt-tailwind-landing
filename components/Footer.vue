@@ -5,12 +5,12 @@
 
         <div class="w-full lg:w-6/12 px-4">
           <div class="w-1/2">
-            <a href="#_" class="text--logo">
-              Starter
-            </a>
+            <NuxtLink to="/" class="text--logo">
+              101PXL
+            </NuxtLink>
           </div>
           <div class="my-2">
-            <h5 class="text-md my-0 text-gray-400">A starter landing page using nuxt and tailwindcss.</h5>
+            <h5 class="text-md my-0 text-gray-400">1111 left-side pfp NFTs living on the Solana blockchain.</h5>
           </div>
         </div>
 
@@ -20,43 +20,24 @@
             <div class="w-full lg:w-6/12 ml-auto">
               <ul class="list-none text-md text-gray-400">
                 <li class="mb-2 font-semibold uppercase block">
-                  Links
+                  Stay Updates
                 </li>
                 <li class="mb-2 block">
-                  About us
+                  <a href="https://twitter.com/101PXL" target="_blank">Twitter</a>
                 </li>
                 <li class="mb-2 block">
-                  Services
+                  SolSea Collection
                 </li>
                 <li class="mb-2 block">
-                  Portfolio
+                  Discord Server
                 </li>
               </ul>
             </div>
 
-            <div class="w-full lg:w-6/12 ml-auto">
-              <ul class="list-none text-md text-gray-400">
-                <li class="mb-2 font-semibold uppercase block">
-                  Resources
-                </li>
-                <li class="mb-2 block">
-                  Terms and Conditions
-                </li>
-                <li class="mb-2 block">
-                  Privacy Policy
-                </li>
-              </ul>
-            </div>
 
           </div>
         </div>
 
-      </div>
-      <hr class="my-6 border-gray-200 shadow-sm" />
-      <div class="w-full flex flex-wrap items-center md:justify-between justify-center">
-        <div class="w-full px-4 mx-auto text-center text-gray-400">
-          Copyright © 2021 Starter, Inc. All rights reserved.
-        </div>
       </div>
     </div>
   </footer>
