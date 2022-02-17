@@ -7,7 +7,7 @@
               Why collect 101PXL?
             </p>
             <h3 class="testimonial--heading">
-              Be The OG's on Solana Chain
+              Be The OG's
             </h3>
           </div>
           <div class="w-full lg:w-1/2 space-y-4">
@@ -48,19 +48,19 @@ export default {
   @apply text-3xl font-extrabold leading-10 tracking-tight text-accent;
 
   @screen sm {
-    @apply text-5xl leading-none;
+    @apply text-3xl leading-none;
   }
 
   @screen md {
-    @apply text-6xl;
+    @apply text-3xl;
   }
 
   @screen lg {
-    @apply text-5xl;
+    @apply text-3xl;
   }
 
   @screen xl {
-    @apply text-6xl;
+    @apply text-3xl;
   }
 }
 

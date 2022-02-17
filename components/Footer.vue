@@ -10,7 +10,7 @@
             </NuxtLink>
           </div>
           <div class="my-2">
-            <h5 class="text-md my-0 text-gray-400">1111 left-side pfp NFTs living on the Solana blockchain.</h5>
+            <h5 class="text-md my-0 text-gray-600">1111 left-side pfp NFTs living on the Solana blockchain.</h5>
           </div>
         </div>
 
@@ -18,17 +18,17 @@
           <div class="w-full flex-wrap flex justify-between items-start">
 
             <div class="w-full lg:w-6/12 ml-auto">
-              <ul class="list-none text-md text-gray-400">
+              <ul class="list-none text-md">
                 <li class="mb-2 font-semibold uppercase block">
                   Stay Updates
                 </li>
-                <li class="mb-2 block">
+                <li class="mb-2 block  text-gray-600">
                   <a href="https://twitter.com/101PXL" target="_blank">Twitter</a>
                 </li>
-                <li class="mb-2 block">
+                <li class="mb-2 block text-gray-600">
                   SolSea Collection
                 </li>
-                <li class="mb-2 block">
+                <li class="mb-2 block text-gray-600">
                   Discord Server
                 </li>
               </ul>

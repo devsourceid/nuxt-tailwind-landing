@@ -118,3 +118,9 @@ export default {
   })
 }
 </script>
+
+<style lang="postcss" scoped>
+body {
+  font-family: 'Press Start 2P', cursive;
+}
+</style>
