@@ -19,7 +19,7 @@
         <div class="grid grid-cols-3 gap-8 mt-10 sm:grid-cols-3 lg:grid-cols-12 sm:px-8 xl:px-0">
           <div class="relative flex flex-col items-center justify-start col-span-3 px-8 py-12 space-y-4 overflow-hidden">
             <div class="p-3 text-white">
-              <img src="~/assets/images/human.png" alt="101PXL Nft" class="w-1/2 mx-auto">
+              <img src="~/assets/images/human.png" alt="101PXL Nft" class="w-w-full mx-auto">
             </div>
             <h4 class="text-xl font-medium text-accent">
               Human
@@ -31,7 +31,7 @@
 
           <div class="relative flex flex-col items-center justify-start col-span-3 px-8 py-12 space-y-4 overflow-hidden">
             <div class="p-3 text-white">
-              <img src="~/assets/images/zombie.png" alt="101PXL Nft" class="w-1/2 mx-auto">
+              <img src="~/assets/images/zombie.png" alt="101PXL Nft" class="w-full mx-auto">
             </div>
             <h4 class="text-xl font-medium text-accent">
               Zombie
@@ -43,7 +43,7 @@
 
           <div class="relative flex flex-col items-center justify-start col-span-3 px-8 py-12 space-y-4 overflow-hidden">
             <div class="p-3 text-white">
-              <img src="~/assets/images/cyborg.png" alt="101PXL Nft" class="w-1/2 mx-auto">
+              <img src="~/assets/images/cyborg.png" alt="101PXL Nft" class="w-full mx-auto">
             </div>
             <h4 class="text-xl font-medium text-accent">
               Cyborg
@@ -55,7 +55,7 @@
 
           <div class="relative flex flex-col items-center justify-start col-span-3 px-8 py-12 space-y-4 overflow-hidden">
             <div class="p-3 text-white">
-              <img src="~/assets/images/monster.png" alt="101PXL Nft" class="w-1/2 mx-auto">
+              <img src="~/assets/images/monster.png" alt="101PXL Nft" class="w-w-full mx-auto">
             </div>
             <h4 class="text-xl font-medium text-accent">
               Monster
