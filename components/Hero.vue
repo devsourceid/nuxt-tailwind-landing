@@ -9,7 +9,7 @@
         1111 left-side pfp NFTs living on the Solana blockchain. Each piece is unique programmatically generated from over 85+ hand-drawn traits. Built with Manga style in pixel art.
       </p>
       <div class="hero--actions md:space-x-4">
-        <a href="#" class="btn bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 text-white" target="_blank">
+        <a href="https://solsea.io/collection/620e8d74130c9f4471197762" class="btn bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 text-white" target="_blank">
           Collect NFT
         </a>
       </div>

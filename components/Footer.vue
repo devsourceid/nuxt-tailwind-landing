@@ -26,10 +26,7 @@
                   <a href="https://twitter.com/101PXL" target="_blank">Twitter</a>
                 </li>
                 <li class="mb-2 block text-gray-600">
-                  SolSea Collection
-                </li>
-                <li class="mb-2 block text-gray-600">
-                  Discord Server
+                  <a href="https://solsea.io/collection/620e8d74130c9f4471197762" target="_blank">SolSea Collection</a>
                 </li>
               </ul>
             </div>
