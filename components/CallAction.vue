@@ -11,8 +11,8 @@
       </div>
       <div class="lg:flex-shrink-0 lg:mt-0 text-center mt-4">
         <div class="inline-flex rounded-md shadow">
-          <a href="https://solsea.io/collection/620e8d74130c9f4471197762" target="_blank" class="btn btn--action">
-            View on SolSea
+          <a href="#" target="_blank" class="btn btn--action">
+            View Collection
           </a>
         </div>
       </div>

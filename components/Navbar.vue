@@ -12,8 +12,8 @@
               <span class="block">Home</span>
             </a> -->
             <span class="inline-flex rounded-md shadow-sm">
-              <a href="https://solsea.io/collection/620e8d74130c9f4471197762" target="_blank" class="btn bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 text-white">
-                MINT NFT
+              <a href="#" target="_blank" class="btn bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 text-white">
+                Collect 101PXL
               </a>
             </span>
           </div>

@@ -73,6 +73,36 @@
     <Testimonials :testimonials="testimonials"/>
     <!-- Testimonials End-->
 
+    <section class="py-20 bg-gray-50 shadow-inner">
+      <div class="px-4 mx-auto text-center max-w-7xl sm:px-6 lg:px-8">
+        <h2 class="text-3xl font-bold tracking-tight text-accent sm:text-4xl md:text-5xl xl:text-6xl">
+          The Creator
+        </h2>
+        <p class="max-w-md mx-auto mt-3 text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
+          Creator behind 101PXL NFTs.
+        </p>
+      </div>
+
+      <div class="container max-w-6xl mx-auto">
+        <div class="grid grid-cols-12 gap-8 mt-10 sm:grid-cols-12 lg:grid-cols-12 sm:px-8 xl:px-0">
+          <div class="relative flex flex-col items-center justify-start col-span-12 px-8 py-12 space-y-4 overflow-hidden">
+            <div class="p-3 text-white">
+              <img src="~/assets/images/human.png" alt="101PXL Nft" class="w-w-full mx-auto">
+            </div>
+            <h4 class="text-xl font-medium text-accent">
+              101PXL
+            </h4>
+            <p class="text-base text-center text-gray-500">
+              Web Developer, Digital Marketing, UI/UX Enthusiast, Cat Lover, & Manga Lover
+            </p>
+            <p class="text-base text-center text-gray-500">
+              <span class="icon-social-twitter"></span> <span class="text-blue-600"><a href="https://twitter.com/101pxl" target="_blank">@101pxl</a></span> <span class="icon-social-instagram"></span> <span class="text-blue-600"><a href="https://www.instagram.com/101pxl/" target="_blank">@101pxl</a></span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- Call To Action Start -->
     <CallAction />
     <!-- Call To Action End -->
@@ -104,7 +134,7 @@ export default {
     testimonials: [
       {
         id: 1,
-        message: 'A unique avatar to be used everywhere to stand out on the Solana blockchain.'
+        message: 'A unique avatar to be used everywhere to stand out on the Tezos blockchain.'
       },
       {
         id: 2,
@@ -112,7 +142,7 @@ export default {
       },
       {
         id: 3,
-        message: 'Be part of the new NFT community of the Solana ecosystem.'
+        message: 'Be part of the new NFT community of the Tezos ecosystem.'
       }
     ]
   })

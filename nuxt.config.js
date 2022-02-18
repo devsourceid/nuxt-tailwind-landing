@@ -38,8 +38,10 @@ export default {
     '@nuxtjs/google-fonts',
   ],
 
+
   // Modules (https://go.nuxtjs.dev/config-modules)
   modules: [
+    'nuxt-simple-line-icons'
   ],
 
   googleFonts: {
