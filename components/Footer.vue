@@ -11,6 +11,7 @@
           </div>
           <div class="my-2">
             <h5 class="text-md my-0 text-gray-600">1111 left-side pfp NFTs living on the Solana blockchain.</h5>
+            <p class="my-4 text-blue-600"><span class="text-gray-600">Contract: </span><a href="https://tzkt.io/KT1EFhvvyZKcFAsoiNSMatLDHQNGMiDk9gHa/operations/" target="_blank">KT1EFhvvyZKcFAsoiNSMatLDHQNGMiDk9gHa</a></p>
           </div>
         </div>
 
@@ -24,10 +25,6 @@
                 </li>
                 <li class="mb-2 block  text-blue-600">
                   <a href="https://twitter.com/101PXL" target="_blank">Twitter</a>
-                </li>
-                
-                <li class="mb-2 block  text-blue-600">
-                  <a href="https://tzkt.io/KT1EFhvvyZKcFAsoiNSMatLDHQNGMiDk9gHa/operations/" target="_blank">The Contract</a>
                 </li>
               </ul>
             </div>

@@ -6,7 +6,7 @@
         <span class="block">Collect the OG's <span class="block text-gradient bg-gradient-to-r from-red-600 via-pink-400 to-yellow-300 inline lg:mt-0 mt-1">101PXL</span> NFTs</span>
       </h1>
       <p class="sm:text-left md:text-left lg:text-center">
-        1111 left-side pfp NFTs living on the Tezos blockchain. Each piece is unique programmatically generated from over 85+ hand-drawn traits. Built with Manga style in pixel art.
+        1111 left-side pfp NFTs living on the Tezos blockchain. Each piece is unique programmatically generated from over 100+ hand-drawn traits. Built with Manga style in pixel art.
       </p>
       <div class="hero--actions md:space-x-4">
         <a href="https://objkt.com/collection/KT1EFhvvyZKcFAsoiNSMatLDHQNGMiDk9gHa" class="btn bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 text-white" target="_blank">
