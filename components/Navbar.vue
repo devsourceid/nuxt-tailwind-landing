@@ -12,7 +12,7 @@
               <span class="block">Home</span>
             </a> -->
             <span class="inline-flex rounded-md shadow-sm">
-              <a href="#" target="_blank" class="btn bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 text-white">
+              <a href="https://objkt.com/collection/KT1EFhvvyZKcFAsoiNSMatLDHQNGMiDk9gHa" target="_blank" class="btn bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 text-white">
                 Collect 101PXL
               </a>
             </span>

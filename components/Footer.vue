@@ -25,6 +25,10 @@
                 <li class="mb-2 block  text-blue-600">
                   <a href="https://twitter.com/101PXL" target="_blank">Twitter</a>
                 </li>
+                
+                <li class="mb-2 block  text-blue-600">
+                  <a href="https://tzkt.io/KT1EFhvvyZKcFAsoiNSMatLDHQNGMiDk9gHa/operations/" target="_blank">The Contract</a>
+                </li>
               </ul>
             </div>
 

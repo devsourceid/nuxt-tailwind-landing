@@ -142,6 +142,10 @@ export default {
       },
       {
         id: 3,
+        message: 'After all 1111 sold, we run the Version 2 will make them into 3D. 150 lucky owner will get for free.'
+      },
+      {
+        id: 4,
         message: 'Be part of the new NFT community of the Tezos ecosystem.'
       }
     ]

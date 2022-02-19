@@ -11,7 +11,7 @@
       </div>
       <div class="lg:flex-shrink-0 lg:mt-0 text-center mt-4">
         <div class="inline-flex rounded-md shadow">
-          <a href="#" target="_blank" class="btn btn--action">
+          <a href="https://objkt.com/collection/KT1EFhvvyZKcFAsoiNSMatLDHQNGMiDk9gHa" target="_blank" class="btn btn--action">
             View Collection
           </a>
         </div>
