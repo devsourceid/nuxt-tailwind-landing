@@ -18,7 +18,7 @@
     
     <div class="relative flex flex-col items-center justify-start col-span-6">
     <div class="my-4">
-      <p class="sm:text-left mb-4 md:text-left lg:text-center">101PXL v1.0</p>
+      <p class="mb-4 text-center">101PXL v1.0</p>
       <img src="~/assets/images/animated_101pxl.gif" alt="101PXL Nft" class="w-1/2 mx-auto">
     </div>
     </div>
